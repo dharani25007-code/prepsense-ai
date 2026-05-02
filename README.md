@@ -267,5 +267,5 @@ MIT License — free to use, modify, and distribute.
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f1117&height=130&section=footer&text=Prepare%20Smarter.%20Interview%20Better.&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
 
-**Built by [Dharanidharan M](https://github.com/dharani25007-code) · Coimbatore, India 🇮🇳**
+**Built by [Dharanidharan M](https://github.com/dharani25007-code)
 </div>
