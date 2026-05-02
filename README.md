@@ -27,7 +27,7 @@
 
 ---
 
-## ⭐ 5 Novelty Features
+## ⭐ 5 New Features
 
 <div align="center">
 
