@@ -66,9 +66,7 @@
 </table>
 
 </div>
-
 ---
-
 ## 🏗️ Architecture
 
 ```
